@@ -75,6 +75,7 @@ Digite sua opção:
 # \## 📚 Conceitos Praticados
 
 Este projeto contribuiu para o desenvolvimento dos seguintes conhecimentos:
+
 \- Lógica de programação;
 
 \- Manipulação de listas;
