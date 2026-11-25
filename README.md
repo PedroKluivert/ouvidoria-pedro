@@ -45,26 +45,26 @@ Ao executar o programa, será apresentado o seguinte menu:
 
 --------------------------------------------------
 
-&#x20;                 Canal de Ouvidoria
+                 Canal de Ouvidoria
 
 --------------------------------------------------
 
-&#x20;                 Menu Principal
+                 Menu Principal
 
 
-1\) Listar Reclamações
+1) Listar Reclamações
 
-2\) Adicionar Reclamação
+2) Adicionar Reclamação
 
-3\) Pesquisar Reclamação
+3) Pesquisar Reclamação
 
-4\) Remover Reclamação
+4) Remover Reclamação
 
-5\) Quantidade de Reclamações
+5) Quantidade de Reclamações
 
-6\) Substituir Reclamação
+6) Substituir Reclamação
 
-7\) Sair
+7) Sair
  
 
 Digite sua opção:
@@ -76,25 +76,32 @@ Digite sua opção:
 
 Este projeto contribuiu para o desenvolvimento dos seguintes conhecimentos:
 \- Lógica de programação;
+
 \- Manipulação de listas;
+
 \- Controle de fluxo;
+
 \- Estruturas de decisão;
+
 \- Estruturas de repetição;
+
 \- Operações de inclusão, pesquisa, alteração e exclusão de dados (CRUD).
 
 # \## ⚠️ Observações
 \- Os dados são armazenados temporariamente em uma lista.
+
 \- As reclamações não são salvas em banco de dados.
+
 \- Ao encerrar o programa, todas as informações cadastradas são perdidas.
 
 # \## 👨‍💻 Autor
 by Pedro Kluivert
+
 Desenvolvido como projeto de prática e aprendizado em Python.
+
 **Tecnologia:** Python 3
 
-
-\---
-⭐ Se gostou do projeto, deixe uma estrela no repositório!
+# ⭐ Se gostou do projeto, deixe uma estrela no repositório!
 
 
 
